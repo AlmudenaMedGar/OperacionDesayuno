@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505175047Z6JCBC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605051750478ZB7XF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>OPERACIÓN DESAYUNO: Matemáticas para compartir</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ALMUDENA MEDINA GARCÍA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Bienvenidos a este archivo ExeLearning, donde se trata de desarrollar una Situación de Aprendizaje pensada para la comunidad autónoma de Andalucía, diseñada para el curso 1º de ESO, insertada en la materia de Matemáticas. A lo largo de este archivo, están desarrolladas las múltiples tareas y actividades que se llevarían a cabo en el recurso, así como se detallan los diferentes elementos curriculares que tienen cabida en él. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777562967632</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>a540df39-b04c-4dd6-973c-c025191a4dca</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIENVENIDA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>BIENVENIDA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>a540df39-b04c-4dd6-973c-c025191a4dca</odePageId>
+      <odeBlockId>block-1777562160728-i92t15su5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>a540df39-b04c-4dd6-973c-c025191a4dca</odePageId>
+          <odeBlockId>block-1777562160728-i92t15su5</odeBlockId>
+          <odeIdeviceId>idevice-1777562160726-neczbsnu1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos a este archivo ExeLearning, donde se trata de desarrollar una Situación de Aprendizaje pensada para la comunidad autónoma de Andalucía, diseñada para el curso 1º ESO, insertada en la materia de Matemáticas enfocadas a la vida cotidiana. A lo largo de este archivo, están desarrolladas las múltiples tareas y actividades que se llevarían a cabo en el recurso, así como se detallan los diferentes elementos curriculares que tienen cabida en él.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777562160726-neczbsnu1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos a este archivo ExeLearning, donde se trata de desarrollar una Situación de Aprendizaje pensada para la comunidad autónoma de Andalucía, diseñada para el curso 1º ESO, insertada en la materia de Matemáticas enfocadas a la vida cotidiana. A lo largo de este archivo, están desarrolladas las múltiples tareas y actividades que se llevarían a cabo en el recurso, así como se detallan los diferentes elementos curriculares que tienen cabida en él.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777562435398-5afpbgpf0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESARROLLO DEL PROYECTO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESARROLLO DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DESARROLLO DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777562435398-5afpbgpf0</odePageId>
+      <odeBlockId>block-1777562437239-mk25drb92</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777562435398-5afpbgpf0</odePageId>
+          <odeBlockId>block-1777562437239-mk25drb92</odeBlockId>
+          <odeIdeviceId>idevice-1777562437238-p694f6hzv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 458px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 16.48.15.png" width="458" height="450" alt="Imagen creada por Almudena Medina con IA canva" />
+<figcaption class="figcaption"><span class="title"><em>Imagen creada con IA en CANVA</em></span></figcaption>
+</figure>
+<p>A lo largo de esta página nos vamos a ir adentrando en nuestro proyecto Operación Desayuno: Matemáticas para compartir. En este proyecto te convertirás en parte de un equipo encargado de organizar un desayuno saludable para otra clase.<br />Tendrás que tomar decisiones reales como calcular cantidades, gestionar un presupuesto y elegir los productos más adecuados, todo ello combinando la competencia matemática y la competencia digital.</p>
+<p>En las diferentes pestañas encontrarás:</p>
+<ul>
+<li>Fases del proyecto.</li>
+<li>Actividades que se van a realizar.</li>
+<li>Recursos y ejemplos que te ayudarán.</li>
+<li>Organización de los espacios y los recursos.</li>
+</ul>
+<p><br /></p>
+<p><br /></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777562437238-p694f6hzv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 458px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 16.48.15.png\" width=\"458\" height=\"450\" alt=\"Imagen creada por Almudena Medina con IA canva\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Imagen creada con IA en CANVA</em></span></figcaption>\n</figure>\n<p>A lo largo de esta página nos vamos a ir adentrando en nuestro proyecto Operación Desayuno: Matemáticas para compartir. En este proyecto te convertirás en parte de un equipo encargado de organizar un desayuno saludable para otra clase.<br />Tendrás que tomar decisiones reales como calcular cantidades, gestionar un presupuesto y elegir los productos más adecuados, todo ello combinando la competencia matemática y la competencia digital.</p>\n<p>En las diferentes pestañas encontrarás:</p>\n<ul>\n<li>Fases del proyecto.</li>\n<li>Actividades que se van a realizar.</li>\n<li>Recursos y ejemplos que te ayudarán.</li>\n<li>Organización de los espacios y los recursos.</li>\n</ul>\n<p><br /></p>\n<p><br /></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777562626139-unb0rwkyv</odePageId>
+  <odeParentPageId>page-1777562435398-5afpbgpf0</odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777562626139-unb0rwkyv</odePageId>
+      <odeBlockId>block-1777562898523-v8f0sycif</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777562626139-unb0rwkyv</odePageId>
+          <odeBlockId>block-1777562898523-v8f0sycif</odeBlockId>
+          <odeIdeviceId>idevice-1777562898520-j9j5urdw5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/yogurt-bowls-hero-new.jpg" width="300" height="450" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Título: Operación Desayuno Matemáticas para compartir.</p>
+<p>Edad a la que va dirigida: 1º ESO</p>
+<p>Materia: Matemáticas.</p>
+<p>Justificación: </p>
+<p>A partir de la rutina de pensamiento vemos como estta situación de aprendizaje responde a la necesidad de conectar las matemáticas con contextos reales, cercanos y significativos para el alumnado, favoreciendo un aprendizaje funcional y aplicable a la vida cotidiana.</p>
+<p>A partir de la rutina de pensamiento previa, se detectó la importancia de diseñar propuestas que aumenten la motivación del alumnado y le permitan comprender la utilidad de los contenidos matemáticos. En este sentido, la organización de un desayuno saludable constituye un reto auténtico que implica la resolución de problemas reales, como la gestión de un presupuesto, el cálculo de cantidades o la atención a necesidades específicas (alergias e intolerancias).</p>
+<p>El proyecto promueve un enfoque metodológico activo y competencial, donde el alumnado asume un papel protagonista en su propio aprendizaje. Se favorece el desarrollo de la competencia matemática mediante el uso de la proporcionalidad, los números decimales y la estadística, así como la competencia digital a través del uso de herramientas como formularios, hojas de cálculo o plataformas colaborativas.</p>
+<p>Asimismo, se fomenta el trabajo cooperativo, la toma de decisiones, el pensamiento crítico y la responsabilidad, integrando también elementos de educación en valores relacionados con la salud y el consumo responsable.</p>
+<p>El producto final refuerza el aprendizaje significativo, ya que permite al alumnado aplicar los conocimientos adquiridos en una situación real, evidenciando que las matemáticas no son un contenido aislado, sino una herramienta útil para comprender y actuar en el mundo que les rodea. </p>
+<p>En este enlace se podrá acceder a la <a href="https://www.canva.com/design/DAHGeCSHHXY/us9zWfURkqzk6jVQFC-TOA/edit" title="">INFOGRAFÍA</a> de nuestro proyecto.</p>
+<p>Documento elaborado por: Almudena Medina García.</p>
+<p>Licencia: Creative Commons CC BY-NC-SA 4.0</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777562898520-j9j5urdw5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/yogurt-bowls-hero-new.jpg\" width=\"300\" height=\"450\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Título: Operación Desayuno Matemáticas para compartir.</p>\n<p>Edad a la que va dirigida: 1º ESO</p>\n<p>Materia: Matemáticas.</p>\n<p>Justificación: </p>\n<p>A partir de la rutina de pensamiento vemos como estta situación de aprendizaje responde a la necesidad de conectar las matemáticas con contextos reales, cercanos y significativos para el alumnado, favoreciendo un aprendizaje funcional y aplicable a la vida cotidiana.</p>\n<p>A partir de la rutina de pensamiento previa, se detectó la importancia de diseñar propuestas que aumenten la motivación del alumnado y le permitan comprender la utilidad de los contenidos matemáticos. En este sentido, la organización de un desayuno saludable constituye un reto auténtico que implica la resolución de problemas reales, como la gestión de un presupuesto, el cálculo de cantidades o la atención a necesidades específicas (alergias e intolerancias).</p>\n<p>El proyecto promueve un enfoque metodológico activo y competencial, donde el alumnado asume un papel protagonista en su propio aprendizaje. Se favorece el desarrollo de la competencia matemática mediante el uso de la proporcionalidad, los números decimales y la estadística, así como la competencia digital a través del uso de herramientas como formularios, hojas de cálculo o plataformas colaborativas.</p>\n<p>Asimismo, se fomenta el trabajo cooperativo, la toma de decisiones, el pensamiento crítico y la responsabilidad, integrando también elementos de educación en valores relacionados con la salud y el consumo responsable.</p>\n<p>El producto final refuerza el aprendizaje significativo, ya que permite al alumnado aplicar los conocimientos adquiridos en una situación real, evidenciando que las matemáticas no son un contenido aislado, sino una herramienta útil para comprender y actuar en el mundo que les rodea. </p>\n<p>En este enlace se podrá acceder a la <a href=\"https://www.canva.com/design/DAHGeCSHHXY/us9zWfURkqzk6jVQFC-TOA/edit\" title=\"\">INFOGRAFÍA</a> de nuestro proyecto.</p>\n<p>Documento elaborado por: Almudena Medina García.</p>\n<p>Licencia: Creative Commons CC BY-NC-SA 4.0</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777562626139-unb0rwkyv</odePageId>
+      <odeBlockId>block-1777992978717-4hrae2i9u</odeBlockId>
+      <blockName>ANTES DE EMPEZAR...</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777562626139-unb0rwkyv</odePageId>
+          <odeBlockId>block-1777992978717-4hrae2i9u</odeBlockId>
+          <odeIdeviceId>idevice-1777992978715-hcc85b0kr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí os dejo un vídeo de la importancia de realizar un desayuno saludable.</p>
+<figure class="exe-figure position-center" style="width: 1470px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 16.59.14.png" width="1470" height="822" alt="" />
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=A9yQfwGn8hQ" class="title" target="_blank" rel="noopener"><em>https://www.youtube.com/watch?v=A9yQfwGn8hQ</em></a></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777992978715-hcc85b0kr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí os dejo un vídeo de la importancia de realizar un desayuno saludable.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1470px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 16.59.14.png\" width=\"1470\" height=\"822\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/watch?v=A9yQfwGn8hQ\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>https://www.youtube.com/watch?v=A9yQfwGn8hQ</em></a></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777564060643-7p84193q6</odePageId>
+  <odeParentPageId>page-1777562435398-5afpbgpf0</odeParentPageId>
+  <pageName>Conocemos las licencias y seguridad</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conocemos las licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Conocemos las licencias y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777564060643-7p84193q6</odePageId>
+      <odeBlockId>block-1777564400391-x10tx9ah8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777564060643-7p84193q6</odePageId>
+          <odeBlockId>block-1777564400391-x10tx9ah8</odeBlockId>
+          <odeIdeviceId>idevice-1777564400389-ci37stob3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Infografía licencias y seguridad" frameborder="0" src="https://view.genially.com/69e2706988d389141e15a5c6" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all" data-mce-fragment="1"></iframe></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777564400389-ci37stob3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"Infografía licencias y seguridad\" frameborder=\"0\" src=\"https://view.genially.com/69e2706988d389141e15a5c6\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777565396373-lxkhuet8v</odePageId>
+  <odeParentPageId>page-1777562435398-5afpbgpf0</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777565396373-lxkhuet8v</odePageId>
+      <odeBlockId>block-1777565406430-uy57p02eu</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777565396373-lxkhuet8v</odePageId>
+          <odeBlockId>block-1777565406430-uy57p02eu</odeBlockId>
+          <odeIdeviceId>idevice-1777565406428-qgcn7bbaz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En mi proyecto “Operación desayuno: matemáticas para compartir”, dirigido a alumnado 1º ESO, el producto final consiste en la creación de un menú de desayuno saludable y la invitación a dicho evento, para ello, el alumnado lo va a realizar a través de la plataforma de Canva.Aunque el núcleo de la unidad es el trabajo con decimales, proporcionalidad y estadística, queríamos que el producto final fuera el puente entre el rigor matemático y la comunicación creativa.</p>
+<p>Los motivos principales por lo que hemos seleccionado esta herramienta son la integración de la competencia STEM y digital, sabiendo que es un recurso sencillo de utilizar y que el alumnado ya ha usado en otras ocasiones por lo que es conocedor de esta herramienta. El alumnado va tener que volcar la información nutricional del menú que ha elaborado, para ello, también hará uso de códigos QR para acceder a la información.</p>
+<p>Además, con esta herramienta se favorecerá el fomento del uso saludable de la tecnología, siendo esto uno de nuestros objetivos principales de enseñar al alumnado herramientas digitales más allá de las redes sociales. Canva le ofrece al alumnado la creación de contenidos responsables. Favoreciendo también el trabajo cooperativo del alumnado de 1º de la Eso que tendrá que organizarse para decidir el diseño, la jerarquía de la información y la inserción de elementos multimedia.</p>
+<p>A lo largo de toda la situación de aprendizaje tendrán que trabajar con otras herramientas digitales que favorecerán a estas características que estamos exponiendo.</p>
+<p>En conclusión, la elección de canva no fue una cuestión solo de estética, sino una decisión estratégica para cerrar el círculo de aprendizaje. Permitiendo evaluar no solo si sabían conceptos matemáticos, sino si eran capaces de comunicar esos datos de forma eficaz y creativa en un contexto real.</p>
+<p>Documento elaborado por: Almudena Medina García.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777565406428-qgcn7bbaz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En mi proyecto “Operación desayuno: matemáticas para compartir”, dirigido a alumnado 1º ESO, el producto final consiste en la creación de un menú de desayuno saludable y la invitación a dicho evento, para ello, el alumnado lo va a realizar a través de la plataforma de Canva.Aunque el núcleo de la unidad es el trabajo con decimales, proporcionalidad y estadística, queríamos que el producto final fuera el puente entre el rigor matemático y la comunicación creativa.</p>\n<p>Los motivos principales por lo que hemos seleccionado esta herramienta son la integración de la competencia STEM y digital, sabiendo que es un recurso sencillo de utilizar y que el alumnado ya ha usado en otras ocasiones por lo que es conocedor de esta herramienta. El alumnado va tener que volcar la información nutricional del menú que ha elaborado, para ello, también hará uso de códigos QR para acceder a la información.</p>\n<p>Además, con esta herramienta se favorecerá el fomento del uso saludable de la tecnología, siendo esto uno de nuestros objetivos principales de enseñar al alumnado herramientas digitales más allá de las redes sociales. Canva le ofrece al alumnado la creación de contenidos responsables. Favoreciendo también el trabajo cooperativo del alumnado de 1º de la Eso que tendrá que organizarse para decidir el diseño, la jerarquía de la información y la inserción de elementos multimedia.</p>\n<p>A lo largo de toda la situación de aprendizaje tendrán que trabajar con otras herramientas digitales que favorecerán a estas características que estamos exponiendo.</p>\n<p>En conclusión, la elección de canva no fue una cuestión solo de estética, sino una decisión estratégica para cerrar el círculo de aprendizaje. Permitiendo evaluar no solo si sabían conceptos matemáticos, sino si eran capaces de comunicar esos datos de forma eficaz y creativa en un contexto real.</p>\n<p>Documento elaborado por: Almudena Medina García.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777565685198-zu44n4wu7</odePageId>
+  <odeParentPageId>page-1777562435398-5afpbgpf0</odeParentPageId>
+  <pageName>Herramientas de clase</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de clase</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Herramientas de clase</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777565685198-zu44n4wu7</odePageId>
+      <odeBlockId>block-1777565698158-qvplmo5n0</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777565685198-zu44n4wu7</odePageId>
+          <odeBlockId>block-1777565698158-qvplmo5n0</odeBlockId>
+          <odeIdeviceId>idevice-1777565698157-4vipqwwd8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/jdhr0orps1qi976h" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777565698157-4vipqwwd8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/jdhr0orps1qi976h\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777565685198-zu44n4wu7</odePageId>
+      <odeBlockId>block-1777566095011-3vjg62azz</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777565685198-zu44n4wu7</odePageId>
+          <odeBlockId>block-1777566095011-3vjg62azz</odeBlockId>
+          <odeIdeviceId>idevice-1777566095009-f9mhprm5n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, dejo el enlace para poder acceder a nuestro tablero de <a href="https://www.symbaloo.com/mix/gestion-docente-nqyq" title="">Symbaloo</a> donde iremos añadiendo las aplicaciones que más uso le damos en clase.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777566095009-f9mhprm5n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, dejo el enlace para poder acceder a nuestro tablero de <a href=\"https://www.symbaloo.com/mix/gestion-docente-nqyq\" title=\"\">Symbaloo</a> donde iremos añadiendo las aplicaciones que más uso le damos en clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777567069093-asmscjmbo</odePageId>
+  <odeParentPageId>page-1777562435398-5afpbgpf0</odeParentPageId>
+  <pageName>Organización espacio, temporal y de recurso.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización espacio, temporal y de recurso.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777567069093-asmscjmbo</odePageId>
+      <odeBlockId>block-1777567105146-mqzlhw1v4</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777567069093-asmscjmbo</odePageId>
+          <odeBlockId>block-1777567105146-mqzlhw1v4</odeBlockId>
+          <odeIdeviceId>idevice-1777567105144-w7vo75thx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este mapa mental realizado con Mindmeister se podrá ver una organización clara de los recursos, espacios...que se van a utilizar para realizar nuestro proyecto.<img src="{{context_path}}/content/resources/Mapa mental.png" width="724" height="371" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777567105144-w7vo75thx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este mapa mental realizado con Mindmeister se podrá ver una organización clara de los recursos, espacios...que se van a utilizar para realizar nuestro proyecto.<img src=\"{{context_path}}/content/resources/Mapa mental.png\" width=\"724\" height=\"371\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+  <odeParentPageId>page-1777562435398-5afpbgpf0</odeParentPageId>
+  <pageName>Desarrollo de las actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo de las actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+      <odeBlockId>block-1777993515331-bnyc4xw3i</odeBlockId>
+      <blockName>Fase 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+          <odeBlockId>block-1777993515331-bnyc4xw3i</odeBlockId>
+          <odeIdeviceId>idevice-1777993515320-m8jj4fvnb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Qué tienes que hacer?</p>
+<p>Crea un formulario con las preguntas necesarias para conocer intereses, alergias y datos relevantes de vuestros compañeros y compañeras para elaborar vuestro desayuno saludable.</p>
+<p><strong>Herramienta:</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.07.13.png" width="300" height="180" alt="" /></strong></p>
+<p>Entra con tu cuenta y elabora preguntas claras cómo: ¿Cómo te llamas?, ¿de qué clase eres?, ¿tienes alguna alergia?...</p>
+<p>Para ello, podrás acceder a nuestro padlet situado en la pestaña de herramientas donde tenéis un vídeo explicativo. Además te dejo un ejemplo de cómo podrías elaborar tu encuesta, puedes añadir tantas preguntas como necesites.</p>
+<p><a href="https://forms.gle/pD4CEsDQ5AeMqLpUA" title="">Ejemplo de google form.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777993515320-m8jj4fvnb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Qué tienes que hacer?</p>\n<p>Crea un formulario con las preguntas necesarias para conocer intereses, alergias y datos relevantes de vuestros compañeros y compañeras para elaborar vuestro desayuno saludable.</p>\n<p><strong>Herramienta:</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.07.13.png\" width=\"300\" height=\"180\" alt=\"\" /></strong></p>\n<p>Entra con tu cuenta y elabora preguntas claras cómo: ¿Cómo te llamas?, ¿de qué clase eres?, ¿tienes alguna alergia?...</p>\n<p>Para ello, podrás acceder a nuestro padlet situado en la pestaña de herramientas donde tenéis un vídeo explicativo. Además te dejo un ejemplo de cómo podrías elaborar tu encuesta, puedes añadir tantas preguntas como necesites.</p>\n<p><a href=\"https://forms.gle/pD4CEsDQ5AeMqLpUA\" title=\"\">Ejemplo de google form.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+      <odeBlockId>block-1777994646726-lciqjibae</odeBlockId>
+      <blockName>Fase 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+          <odeBlockId>block-1777994646726-lciqjibae</odeBlockId>
+          <odeIdeviceId>idevice-1777994646723-cgjdxg2s9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Llega el momento de que os reunáis por pequeños grupos y elaboréis los diferentes desayunos saludables que queréis realizar, teniendo en cuenta los resultados obtenidos en la encuesta anterior. </p>
+<p>Para ello, utilizaremos la herramienta Sheet en drive para realizar los cálculos directamente realizaremos diferentes columnas para luego añadir los precios existentes en los supermercados.</p>
+<p><strong>Herramienta: </strong></p>
+<p><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.29.12.png" width="300" height="278" alt="" /></strong></p>
+<p><strong>Ejemplo</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.33.34.png" width="500" height="134" alt="" /></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994646723-cgjdxg2s9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Llega el momento de que os reunáis por pequeños grupos y elaboréis los diferentes desayunos saludables que queréis realizar, teniendo en cuenta los resultados obtenidos en la encuesta anterior. </p>\n<p>Para ello, utilizaremos la herramienta Sheet en drive para realizar los cálculos directamente realizaremos diferentes columnas para luego añadir los precios existentes en los supermercados.</p>\n<p><strong>Herramienta: </strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.29.12.png\" width=\"300\" height=\"278\" alt=\"\" /></strong></p>\n<p><strong>Ejemplo</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.33.34.png\" width=\"500\" height=\"134\" alt=\"\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+      <odeBlockId>block-1777995351605-dx6wqtcmr</odeBlockId>
+      <blockName>Fase 3</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+          <odeBlockId>block-1777995351605-dx6wqtcmr</odeBlockId>
+          <odeIdeviceId>idevice-1777995351603-tdlfhbndg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora es el momento de buscar en internet los precios que tienen los productos que habéis seleccionado para poder comparar donde sale más económico y poder realizar posteriormente la compra de nuestro desayuno.</p>
+<p>Para ello, os invito a acceder a la herramienta de padlet donde tenéis la información más detallada. También os dejo a continuación, los enlaces directos a algunos supermercados. Posteriormente seguiréis añadiendo los datos a vuestra tabla creada en la actividad anterior para poder calcular los precios.</p>
+<p><a href="https://www.carrefour.es" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.38.33.png" width="106" height="90" alt="" /></a></p>
+<p><a href="https://www.compraonline.alcampo.es/?srsltid=AfmBOoqVH5gsYzyexleq4aJS2-wkfU-Nw5lYa1p1A_vOT-sw7HYMOVzc" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.39.27.png" width="106" height="111" alt="" /></a></p>
+<p><a href="https://www.dia.es/?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=23688264471&amp;gbraid=0AAAAADdKPtLjSJKpaE03olUdGvEL-IZ2r" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.41.27.png" width="106" height="91" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995351603-tdlfhbndg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora es el momento de buscar en internet los precios que tienen los productos que habéis seleccionado para poder comparar donde sale más económico y poder realizar posteriormente la compra de nuestro desayuno.</p>\n<p>Para ello, os invito a acceder a la herramienta de padlet donde tenéis la información más detallada. También os dejo a continuación, los enlaces directos a algunos supermercados. Posteriormente seguiréis añadiendo los datos a vuestra tabla creada en la actividad anterior para poder calcular los precios.</p>\n<p><a href=\"https://www.carrefour.es\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.38.33.png\" width=\"106\" height=\"90\" alt=\"\" /></a></p>\n<p><a href=\"https://www.compraonline.alcampo.es/?srsltid=AfmBOoqVH5gsYzyexleq4aJS2-wkfU-Nw5lYa1p1A_vOT-sw7HYMOVzc\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.39.27.png\" width=\"106\" height=\"111\" alt=\"\" /></a></p>\n<p><a href=\"https://www.dia.es/?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=23688264471&amp;gbraid=0AAAAADdKPtLjSJKpaE03olUdGvEL-IZ2r\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.41.27.png\" width=\"106\" height=\"91\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+      <odeBlockId>block-1777995738791-4k8m5cldc</odeBlockId>
+      <blockName>Fase 4</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+          <odeBlockId>block-1777995738791-4k8m5cldc</odeBlockId>
+          <odeIdeviceId>idevice-1777995738788-2pjw31rmc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una vez recopilado los datos tenéis que realizar una presentación/invitación del desayuno saludable para vuestros compañeros y compañeras. Para realizar esta actividad utilizaremos la aplicación de CANVA y la utilización de código QR dónde pondremos el menú para que pueda verlo todo el mundo.</p>
+<p>Aplicación para realizar la presentación:</p>
+<p><a href="https://www.canva.com/es_es/" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.44.13.png" width="106" height="101" alt="" /></a></p>
+<p><a href="https://qrcodecreator.com/es?AdId=&amp;keyword=&amp;matchtype=&amp;device=c&amp;devicemodel=&amp;loc=1005420&amp;network=x&amp;place=&amp;campaignid=22101278831&amp;gad_source=1&amp;gad_campaignid=22254625391&amp;gbraid=0AAAAAqLtWn2LBuT4_Q06sA2KuZNgn1d0r" title="">Página para generar código QR</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995738788-2pjw31rmc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez recopilado los datos tenéis que realizar una presentación/invitación del desayuno saludable para vuestros compañeros y compañeras. Para realizar esta actividad utilizaremos la aplicación de CANVA y la utilización de código QR dónde pondremos el menú para que pueda verlo todo el mundo.</p>\n<p>Aplicación para realizar la presentación:</p>\n<p><a href=\"https://www.canva.com/es_es/\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.44.13.png\" width=\"106\" height=\"101\" alt=\"\" /></a></p>\n<p><a href=\"https://qrcodecreator.com/es?AdId=&amp;keyword=&amp;matchtype=&amp;device=c&amp;devicemodel=&amp;loc=1005420&amp;network=x&amp;place=&amp;campaignid=22101278831&amp;gad_source=1&amp;gad_campaignid=22254625391&amp;gbraid=0AAAAAqLtWn2LBuT4_Q06sA2KuZNgn1d0r\" title=\"\">Página para generar código QR</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+      <odeBlockId>block-1777995990700-56befd5eu</odeBlockId>
+      <blockName>Fase 5</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777993347215-0mzwmkumw</odePageId>
+          <odeBlockId>block-1777995990700-56befd5eu</odeBlockId>
+          <odeIdeviceId>idevice-1777995990698-3rwuoty8n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es el momento de disfrutar de un bonito desayuno saludable compartido.<img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.50.07.png" width="434" height="422" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995990698-3rwuoty8n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es el momento de disfrutar de un bonito desayuno saludable compartido.<img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 17.50.07.png\" width=\"434\" height=\"422\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777567526389-36d51g5ef</odePageId>
+  <odeParentPageId>page-1777562435398-5afpbgpf0</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777567526389-36d51g5ef</odePageId>
+      <odeBlockId>block-1777821082387-v3ft0zxx5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777567526389-36d51g5ef</odePageId>
+          <odeBlockId>block-1777821082387-v3ft0zxx5</odeBlockId>
+          <odeIdeviceId>idevice-1777821082382-wjyeffodm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="600" height="300" src="{{context_path}}/content/resources/Tarea 8.1..pdf"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777821082382-wjyeffodm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Tarea 8.1..pdf\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777567201595-sl9at69q7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777567201595-sl9at69q7</odePageId>
+      <odeBlockId>block-1777567213143-xozcr5n2o</odeBlockId>
+      <blockName>Concreción curricular</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777567201595-sl9at69q7</odePageId>
+          <odeBlockId>block-1777567213143-xozcr5n2o</odeBlockId>
+          <odeIdeviceId>idevice-1777567213142-4z3d52ggq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este módulo analizaremos el currículo de secundaria, haciendo un repaso de la normativa actual. Asimismo, se desglosarán los diferentes elementos curriculares aclarando definiciones, como los objetivos, los descriptores del perfil de salida, las competencias específicas, los saberes básicos y los criterios de evaluación. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777567213142-4z3d52ggq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este módulo analizaremos el currículo de secundaria, haciendo un repaso de la normativa actual. Asimismo, se desglosarán los diferentes elementos curriculares aclarando definiciones, como los objetivos, los descriptores del perfil de salida, las competencias específicas, los saberes básicos y los criterios de evaluación. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777820514105-d8r0zhjtz</odePageId>
+  <odeParentPageId>page-1777567201595-sl9at69q7</odeParentPageId>
+  <pageName>Observaciones</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Observaciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777820514105-d8r0zhjtz</odePageId>
+      <odeBlockId>block-1777820519824-8q0cwf0un</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777820514105-d8r0zhjtz</odePageId>
+          <odeBlockId>block-1777820519824-8q0cwf0un</odeBlockId>
+          <odeIdeviceId>idevice-1777820519823-fp957hrzj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Contextualización del Proyecto: </strong></p>
+<p>La Situación de Aprendizaje (SdA) "Operación Desayuno" está diseñada para el alumnado de 1º de Educación Secundaria Obligatoria (ESO) dentro de la materia de Matemáticas. El eje vertebrador es la aplicación del sentido numérico (números decimales y proporcionalidad) en un contexto real y tangible: la organización de un desayuno compartido. A diferencia de un enfoque tradicional basado en ejercicios de libro de texto, aquí el foco se desplaza hacia la competencia financiera, el trabajo colaborativo y la resiliencia digital.</p>
+<p><strong>Claves Metodológicas:</strong></p>
+<ul>
+<li>Autonomía y Resolución de Problemas: Se ha priorizado el papel del alumnado como gestor de su propio aprendizaje. El docente no actúa como un transmisor de soluciones, sino como un facilitador. Ante errores en las hojas de cálculo o bloqueos tecnológicos, se fomenta que el alumnado utilice estrategias de andamiaje y tutoría entre iguales antes de recurrir a la intervención directa del profesorado.</li>
+<li>Alfabetización Digital Funcional: El uso de herramientas como Google Sheets o Canva en este proyecto no busca solo la estética o el cálculo automático, sino que el alumnado comprenda la lógica de las fórmulas y la importancia del historial de versiones como red de seguridad. Esto refuerza el aprendizaje de una tecnología responsable y reduce la frustración ante el error (DUA).</li>
+<li>Estilo de Vida y Valores: El objetivo transversal es fomentar un estilo de vida saludable (elección de alimentos nutritivos) y una ciudadanía responsable, conectando el ahorro económico con el consumo consciente y el bienestar físico.</li>
+</ul>
+<p><br /><strong>Recomendaciones de Implementación:</strong></p>
+<ul>
+<li>Organización Flexible: Se recomienda alternar las fases de instrucción en gran grupo con el trabajo cooperativo en pequeños grupos de 4. Es fundamental garantizar que los roles dentro del grupo roten, permitiendo que todos los alumnos asuman responsabilidades tanto en el cálculo matemático como en el diseño digital.</li>
+<li>Gestión de la Incertidumbre: Es vital que el docente modele el comportamiento ante fallos de conectividad o errores de software. Se sugiere realizar "simulacros de error" donde el alumnado aprenda a recuperar versiones anteriores de sus documentos, convirtiendo el fallo técnico en una situación de aprendizaje técnico-emocional.</li>
+<li>Inclusión (DUA): Para atender a los diferentes ritmos, se deben proporcionar plantillas de Sheets con diferentes niveles de complejidad (algunas con fórmulas pre-cargadas y otras en blanco) para asegurar que todo el alumnado pueda alcanzar los objetivos competenciales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777820519823-fp957hrzj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Contextualización del Proyecto: </strong></p>\n<p>La Situación de Aprendizaje (SdA) \"Operación Desayuno\" está diseñada para el alumnado de 1º de Educación Secundaria Obligatoria (ESO) dentro de la materia de Matemáticas. El eje vertebrador es la aplicación del sentido numérico (números decimales y proporcionalidad) en un contexto real y tangible: la organización de un desayuno compartido. A diferencia de un enfoque tradicional basado en ejercicios de libro de texto, aquí el foco se desplaza hacia la competencia financiera, el trabajo colaborativo y la resiliencia digital.</p>\n<p><strong>Claves Metodológicas:</strong></p>\n<ul>\n<li>Autonomía y Resolución de Problemas: Se ha priorizado el papel del alumnado como gestor de su propio aprendizaje. El docente no actúa como un transmisor de soluciones, sino como un facilitador. Ante errores en las hojas de cálculo o bloqueos tecnológicos, se fomenta que el alumnado utilice estrategias de andamiaje y tutoría entre iguales antes de recurrir a la intervención directa del profesorado.</li>\n<li>Alfabetización Digital Funcional: El uso de herramientas como Google Sheets o Canva en este proyecto no busca solo la estética o el cálculo automático, sino que el alumnado comprenda la lógica de las fórmulas y la importancia del historial de versiones como red de seguridad. Esto refuerza el aprendizaje de una tecnología responsable y reduce la frustración ante el error (DUA).</li>\n<li>Estilo de Vida y Valores: El objetivo transversal es fomentar un estilo de vida saludable (elección de alimentos nutritivos) y una ciudadanía responsable, conectando el ahorro económico con el consumo consciente y el bienestar físico.</li>\n</ul>\n<p><br /><strong>Recomendaciones de Implementación:</strong></p>\n<ul>\n<li>Organización Flexible: Se recomienda alternar las fases de instrucción en gran grupo con el trabajo cooperativo en pequeños grupos de 4. Es fundamental garantizar que los roles dentro del grupo roten, permitiendo que todos los alumnos asuman responsabilidades tanto en el cálculo matemático como en el diseño digital.</li>\n<li>Gestión de la Incertidumbre: Es vital que el docente modele el comportamiento ante fallos de conectividad o errores de software. Se sugiere realizar \"simulacros de error\" donde el alumnado aprenda a recuperar versiones anteriores de sus documentos, convirtiendo el fallo técnico en una situación de aprendizaje técnico-emocional.</li>\n<li>Inclusión (DUA): Para atender a los diferentes ritmos, se deben proporcionar plantillas de Sheets con diferentes niveles de complejidad (algunas con fórmulas pre-cargadas y otras en blanco) para asegurar que todo el alumnado pueda alcanzar los objetivos competenciales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777567284485-ly12vh5h2</odePageId>
+  <odeParentPageId>page-1777567201595-sl9at69q7</odeParentPageId>
+  <pageName>Asociamos tareas a criterios de evaluación</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Asociamos tareas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777567284485-ly12vh5h2</odePageId>
+      <odeBlockId>block-1777567320231-bkhtafoxn</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777567284485-ly12vh5h2</odePageId>
+          <odeBlockId>block-1777567320231-bkhtafoxn</odeBlockId>
+          <odeIdeviceId>idevice-1777567320228-quii3vkqv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad vamos a relacionar las actividades que vamos a realizar en nuestra SdA con los criterios de evaluación teniendo en cuenta en todo momento la actividad propuesta en la tarea 2.1.</p>
+<p><a href="https://docs.google.com/document/d/1fQnTguJXYAniW70XagIP4LBvvgqhQ3g8anVPyGt1RW4/edit?pli=1&amp;tab=t.0#heading=h.v3kpl8zcktok" title="">Relacionamos tareas con criterios de evaluación.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777567320228-quii3vkqv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad vamos a relacionar las actividades que vamos a realizar en nuestra SdA con los criterios de evaluación teniendo en cuenta en todo momento la actividad propuesta en la tarea 2.1.</p>\n<p><a href=\"https://docs.google.com/document/d/1fQnTguJXYAniW70XagIP4LBvvgqhQ3g8anVPyGt1RW4/edit?pli=1&amp;tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">Relacionamos tareas con criterios de evaluación.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777821439381-8yzchxv16</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CREDITOS EXELEARNING</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREDITOS EXELEARNING</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777821439381-8yzchxv16</odePageId>
+      <odeBlockId>block-1777821518639-3qyf0rfpb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777821439381-8yzchxv16</odePageId>
+          <odeBlockId>block-1777821518639-3qyf0rfpb</odeBlockId>
+          <odeIdeviceId>idevice-1777821518638-3b1zv9joi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Almudena Medina García.</p>
+<p>Descripción: Proyecto "Operación Desayuno, matemáticas para compartir"</p>
+<p>Área implicada: Matemáticas.</p>
+<p>Nivel: 1º ESO</p>
+<p>Licencia de uso: Creative Commons Reconocimiento-Compartir igual. 4.0 (CC BY-SA).</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777821518638-3b1zv9joi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Almudena Medina García.</p>\n<p>Descripción: Proyecto \"Operación Desayuno, matemáticas para compartir\"</p>\n<p>Área implicada: Matemáticas.</p>\n<p>Nivel: 1º ESO</p>\n<p>Licencia de uso: Creative Commons Reconocimiento-Compartir igual. 4.0 (CC BY-SA).</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777821439381-8yzchxv16</odePageId>
+      <odeBlockId>block-1777821845376-3909jf5em</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777821439381-8yzchxv16</odePageId>
+          <odeBlockId>block-1777821845376-3909jf5em</odeBlockId>
+          <odeIdeviceId>idevice-1777821845374-fh7qknzf9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Archivo elp descargable y modificable</strong>: <a href="{{context_path}}/content/resources/operacion-desayuno-matematicas-para-compartir.elpx" title="operacion-desayuno-matematicas-para-compartir.elpx">Exelearning Operación Desayuno: matemáticas.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777821845374-fh7qknzf9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Archivo elp descargable y modificable</strong>: <a href=\"{{context_path}}/content/resources/operacion-desayuno-matematicas-para-compartir.elpx\" title=\"operacion-desayuno-matematicas-para-compartir.elpx\">Exelearning Operación Desayuno: matemáticas.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
